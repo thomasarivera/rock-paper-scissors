@@ -1,0 +1,516 @@
+Round 1: The Player Wins!
+You: 0 The Computer: 0 Ties: 1
+
+Round 2: The Player Wins!
+Score | You: 1 | The Computer: 0 | Ties: 1
+
+Round 3: The Player Wins!
+Score | You: 2 | The Computer: 0 | Ties: 1
+
+Round 4: The Computer Wins!
+Score | You: 2 | The Computer: 1 | Ties: 1
+
+Round 5: The Player Wins!
+Score | You: 3 | The Computer: 1 | Ties: 1
+
+Round 6: The Player Wins!
+Score | You: 4 | The Computer: 1 | Ties: 1
+
+Round 7: The Player Wins!
+You: 4 The Computer: 1 Ties: 2
+
+Round 8: The Player Wins!
+Score | You: 5 | The Computer: 1 | Ties: 2
+
+Round 9: The Player Wins!
+Score | You: 6 | The Computer: 1 | Ties: 2
+
+Round 10: The Player Wins!
+You: 6 The Computer: 1 Ties: 3
+
+Round 1: The Computer Wins!
+Score | You: 0 | The Computer: 1 | Ties: 0
+
+Round 2: The Player Wins!
+Score | You: 1 | The Computer: 1 | Ties: 0
+
+Round 3: The Player Wins!
+You: 1 The Computer: 1 Ties: 1
+
+Round 4: The Computer Wins!
+Score | You: 1 | The Computer: 2 | Ties: 1
+
+Round 5: The Computer Wins!
+Score | You: 1 | The Computer: 3 | Ties: 1
+
+Round 6: The Player Wins!
+Score | You: 2 | The Computer: 3 | Ties: 1
+
+Round 7: The Computer Wins!
+Score | You: 2 | The Computer: 4 | Ties: 1
+
+Round 8: The Computer Wins!
+Score | You: 2 | The Computer: 5 | Ties: 1
+
+Round 9: The Player Wins!
+You: 2 The Computer: 5 Ties: 2
+
+Round 10: The Computer Wins!
+Score | You: 2 | The Computer: 6 | Ties: 2
+
+Round 11: The Computer Wins!
+Score | You: 2 | The Computer: 7 | Ties: 2
+
+Round 12: The Player Wins!
+You: 2 The Computer: 7 Ties: 3
+
+Round 13: The Player Wins!
+Score | You: 3 | The Computer: 7 | Ties: 3
+
+Round 14: The Player Wins!
+You: 3 The Computer: 7 Ties: 4
+
+Round 15: The Player Wins!
+Score | You: 4 | The Computer: 7 | Ties: 4
+
+Round 16: The Player Wins!
+You: 4 The Computer: 7 Ties: 5
+
+Round 17: The Player Wins!
+Score | You: 5 | The Computer: 7 | Ties: 5
+
+Round 18: The Player Wins!
+You: 5 The Computer: 7 Ties: 6
+
+Round 19: The Computer Wins!
+Score | You: 5 | The Computer: 8 | Ties: 6
+
+Round 20: The Computer Wins!
+Score | You: 5 | The Computer: 9 | Ties: 6
+
+Round 21: The Player Wins!
+Score | You: 6 | The Computer: 9 | Ties: 6
+
+Round 22: The Player Wins!
+Score | You: 7 | The Computer: 9 | Ties: 6
+
+Round 23: The Player Wins!
+You: 7 The Computer: 9 Ties: 7
+
+Round 24: The Computer Wins!
+Score | You: 7 | The Computer: 10 | Ties: 7
+
+Round 25: The Computer Wins!
+Score | You: 7 | The Computer: 11 | Ties: 7
+
+Round 26: The Player Wins!
+Score | You: 8 | The Computer: 11 | Ties: 7
+
+Round 27: The Player Wins!
+Score | You: 9 | The Computer: 11 | Ties: 7
+
+Round 28: The Player Wins!
+You: 9 The Computer: 11 Ties: 8
+
+Round 29: The Computer Wins!
+Score | You: 9 | The Computer: 12 | Ties: 8
+
+Round 30: The Computer Wins!
+Score | You: 9 | The Computer: 13 | Ties: 8
+
+Round 31: The Player Wins!
+You: 9 The Computer: 13 Ties: 9
+
+Round 32: The Computer Wins!
+Score | You: 9 | The Computer: 14 | Ties: 9
+
+Round 33: The Player Wins!
+Score | You: 10 | The Computer: 14 | Ties: 9
+
+Round 34: The Player Wins!
+Score | You: 11 | The Computer: 14 | Ties: 9
+
+Round 35: The Player Wins!
+Score | You: 12 | The Computer: 14 | Ties: 9
+
+Round 36: The Player Wins!
+You: 12 The Computer: 14 Ties: 10
+
+Round 37: The Player Wins!
+You: 12 The Computer: 14 Ties: 11
+
+Round 38: The Player Wins!
+Score | You: 13 | The Computer: 14 | Ties: 11
+
+Round 39: The Player Wins!
+Score | You: 14 | The Computer: 14 | Ties: 11
+
+Round 40: The Player Wins!
+You: 14 The Computer: 14 Ties: 12
+
+Round 41: The Computer Wins!
+Score | You: 14 | The Computer: 15 | Ties: 12
+
+Round 42: The Player Wins!
+You: 14 The Computer: 15 Ties: 13
+
+Round 43: The Player Wins!
+You: 14 The Computer: 15 Ties: 14
+
+Round 44: The Player Wins!
+You: 14 The Computer: 15 Ties: 15
+
+Round 45: The Computer Wins!
+Score | You: 14 | The Computer: 16 | Ties: 15
+
+Round 46: The Player Wins!
+Score | You: 15 | The Computer: 16 | Ties: 15
+
+Round 47: The Player Wins!
+Score | You: 16 | The Computer: 16 | Ties: 15
+
+Round 48: The Computer Wins!
+Score | You: 16 | The Computer: 17 | Ties: 15
+
+Round 49: The Player Wins!
+You: 16 The Computer: 17 Ties: 16
+
+Round 50: The Player Wins!
+Score | You: 17 | The Computer: 17 | Ties: 16
+
+Round 51: The Player Wins!
+Score | You: 18 | The Computer: 17 | Ties: 16
+
+Round 52: The Player Wins!
+You: 18 The Computer: 17 Ties: 17
+
+Round 53: The Computer Wins!
+Score | You: 18 | The Computer: 18 | Ties: 17
+
+Round 54: The Computer Wins!
+Score | You: 18 | The Computer: 19 | Ties: 17
+
+Round 55: The Player Wins!
+Score | You: 19 | The Computer: 19 | Ties: 17
+
+Round 56: The Computer Wins!
+Score | You: 19 | The Computer: 20 | Ties: 17
+
+Round 57: The Player Wins!
+You: 19 The Computer: 20 Ties: 18
+
+Round 58: The Player Wins!
+You: 19 The Computer: 20 Ties: 19
+
+Round 59: The Computer Wins!
+Score | You: 19 | The Computer: 21 | Ties: 19
+
+Round 60: The Computer Wins!
+Score | You: 19 | The Computer: 22 | Ties: 19
+
+Round 61: The Player Wins!
+Score | You: 20 | The Computer: 22 | Ties: 19
+
+Round 62: The Computer Wins!
+Score | You: 20 | The Computer: 23 | Ties: 19
+
+Round 63: The Player Wins!
+You: 20 The Computer: 23 Ties: 20
+
+Round 64: The Computer Wins!
+Score | You: 20 | The Computer: 24 | Ties: 20
+
+Round 65: The Computer Wins!
+Score | You: 20 | The Computer: 25 | Ties: 20
+
+Round 66: The Player Wins!
+You: 20 The Computer: 25 Ties: 21
+
+Round 67: The Computer Wins!
+Score | You: 20 | The Computer: 26 | Ties: 21
+
+Round 68: The Player Wins!
+You: 20 The Computer: 26 Ties: 22
+
+Round 69: The Player Wins!
+Score | You: 21 | The Computer: 26 | Ties: 22
+
+Round 70: The Computer Wins!
+Score | You: 21 | The Computer: 27 | Ties: 22
+
+Round 71: The Computer Wins!
+Score | You: 21 | The Computer: 28 | Ties: 22
+
+Round 72: The Player Wins!
+Score | You: 22 | The Computer: 28 | Ties: 22
+
+Round 73: The Player Wins!
+You: 22 The Computer: 28 Ties: 23
+
+Round 74: The Computer Wins!
+Score | You: 22 | The Computer: 29 | Ties: 23
+
+Round 75: The Player Wins!
+Score | You: 23 | The Computer: 29 | Ties: 23
+
+Round 76: The Player Wins!
+Score | You: 24 | The Computer: 29 | Ties: 23
+
+Round 77: The Player Wins!
+Score | You: 25 | The Computer: 29 | Ties: 23
+
+Round 78: The Computer Wins!
+Score | You: 25 | The Computer: 30 | Ties: 23
+
+Round 79: The Player Wins!
+You: 25 The Computer: 30 Ties: 24
+
+Round 80: The Player Wins!
+You: 25 The Computer: 30 Ties: 25
+
+Round 81: The Player Wins!
+You: 25 The Computer: 30 Ties: 26
+
+Round 82: The Player Wins!
+You: 25 The Computer: 30 Ties: 27
+
+Round 83: The Computer Wins!
+Score | You: 25 | The Computer: 31 | Ties: 27
+
+Round 84: The Player Wins!
+You: 25 The Computer: 31 Ties: 28
+
+Round 85: The Player Wins!
+You: 25 The Computer: 31 Ties: 29
+
+Round 86: The Player Wins!
+You: 25 The Computer: 31 Ties: 30
+
+Round 87: The Computer Wins!
+Score | You: 25 | The Computer: 32 | Ties: 30
+
+Round 88: The Player Wins!
+You: 25 The Computer: 32 Ties: 31
+
+Round 89: The Player Wins!
+You: 25 The Computer: 32 Ties: 32
+
+Round 90: The Computer Wins!
+Score | You: 25 | The Computer: 33 | Ties: 32
+
+Round 91: The Computer Wins!
+Score | You: 25 | The Computer: 34 | Ties: 32
+
+Round 92: The Player Wins!
+You: 25 The Computer: 34 Ties: 33
+
+Round 93: The Player Wins!
+Score | You: 26 | The Computer: 34 | Ties: 33
+
+Round 94: The Player Wins!
+You: 26 The Computer: 34 Ties: 34
+
+Round 95: The Computer Wins!
+Score | You: 26 | The Computer: 35 | Ties: 34
+
+Round 96: The Player Wins!
+You: 26 The Computer: 35 Ties: 35
+
+Round 97: The Computer Wins!
+Score | You: 26 | The Computer: 36 | Ties: 35
+
+Round 98: The Player Wins!
+Score | You: 27 | The Computer: 36 | Ties: 35
+
+Round 99: The Computer Wins!
+Score | You: 27 | The Computer: 37 | Ties: 35
+
+Round 100: The Player Wins!
+Score | You: 28 | The Computer: 37 | Ties: 35
+
+Round 101: The Player Wins!
+You: 28 The Computer: 37 Ties: 36
+
+Round 102: The Computer Wins!
+Score | You: 28 | The Computer: 38 | Ties: 36
+
+Round 103: The Computer Wins!
+Score | You: 28 | The Computer: 39 | Ties: 36
+
+Round 104: The Player Wins!
+Score | You: 29 | The Computer: 39 | Ties: 36
+
+Round 105: The Computer Wins!
+Score | You: 29 | The Computer: 40 | Ties: 36
+
+Round 106: The Player Wins!
+You: 29 The Computer: 40 Ties: 37
+
+Round 107: The Computer Wins!
+Score | You: 29 | The Computer: 41 | Ties: 37
+
+Round 108: The Player Wins!
+You: 29 The Computer: 41 Ties: 38
+
+Round 109: The Player Wins!
+Score | You: 30 | The Computer: 41 | Ties: 38
+
+Round 110: The Computer Wins!
+Score | You: 30 | The Computer: 42 | Ties: 38
+
+Round 111: The Player Wins!
+Score | You: 31 | The Computer: 42 | Ties: 38
+
+Round 112: The Computer Wins!
+Score | You: 31 | The Computer: 43 | Ties: 38
+
+Round 113: The Player Wins!
+You: 31 The Computer: 43 Ties: 39
+
+Round 114: The Player Wins!
+You: 31 The Computer: 43 Ties: 40
+
+Round 115: The Player Wins!
+Score | You: 32 | The Computer: 43 | Ties: 40
+
+Round 116: The Player Wins!
+Score | You: 33 | The Computer: 43 | Ties: 40
+
+Round 117: The Player Wins!
+You: 33 The Computer: 43 Ties: 41
+
+Round 118: The Player Wins!
+You: 33 The Computer: 43 Ties: 42
+
+Round 119: The Player Wins!
+Score | You: 34 | The Computer: 43 | Ties: 42
+
+Round 120: The Player Wins!
+Score | You: 35 | The Computer: 43 | Ties: 42
+
+Round 121: The Player Wins!
+Score | You: 36 | The Computer: 43 | Ties: 42
+
+Round 122: The Computer Wins!
+Score | You: 36 | The Computer: 44 | Ties: 42
+
+Round 123: The Computer Wins!
+Score | You: 36 | The Computer: 45 | Ties: 42
+
+Round 124: The Player Wins!
+Score | You: 37 | The Computer: 45 | Ties: 42
+
+Round 125: The Player Wins!
+Score | You: 38 | The Computer: 45 | Ties: 42
+
+Round 126: The Computer Wins!
+Score | You: 38 | The Computer: 46 | Ties: 42
+
+Round 127: The Player Wins!
+You: 38 The Computer: 46 Ties: 43
+
+Round 128: The Computer Wins!
+Score | You: 38 | The Computer: 47 | Ties: 43
+
+Round 129: The Player Wins!
+Score | You: 39 | The Computer: 47 | Ties: 43
+
+Round 130: The Player Wins!
+You: 39 The Computer: 47 Ties: 44
+
+Round 131: The Player Wins!
+You: 39 The Computer: 47 Ties: 45
+
+Round 132: The Player Wins!
+Score | You: 40 | The Computer: 47 | Ties: 45
+
+Round 133: The Player Wins!
+Score | You: 41 | The Computer: 47 | Ties: 45
+
+Round 134: The Player Wins!
+Score | You: 42 | The Computer: 47 | Ties: 45
+
+Round 135: The Computer Wins!
+Score | You: 42 | The Computer: 48 | Ties: 45
+
+Round 136: The Player Wins!
+Score | You: 43 | The Computer: 48 | Ties: 45
+
+Round 137: The Computer Wins!
+Score | You: 43 | The Computer: 49 | Ties: 45
+
+Round 138: The Player Wins!
+You: 43 The Computer: 49 Ties: 46
+
+Round 139: The Player Wins!
+Score | You: 44 | The Computer: 49 | Ties: 46
+
+Round 140: The Computer Wins!
+Score | You: 44 | The Computer: 50 | Ties: 46
+
+Round 141: The Player Wins!
+You: 44 The Computer: 50 Ties: 47
+
+Round 142: The Player Wins!
+Score | You: 45 | The Computer: 50 | Ties: 47
+
+Round 143: The Player Wins!
+You: 45 The Computer: 50 Ties: 48
+
+Round 144: The Computer Wins!
+Score | You: 45 | The Computer: 51 | Ties: 48
+
+Round 145: The Computer Wins!
+Score | You: 45 | The Computer: 52 | Ties: 48
+
+Round 146: The Player Wins!
+Score | You: 46 | The Computer: 52 | Ties: 48
+
+Round 147: The Player Wins!
+Score | You: 47 | The Computer: 52 | Ties: 48
+
+Round 148: The Player Wins!
+Score | You: 48 | The Computer: 52 | Ties: 48
+
+Round 149: The Player Wins!
+You: 48 The Computer: 52 Ties: 49
+
+Round 150: The Player Wins!
+You: 48 The Computer: 52 Ties: 50
+
+Round 151: The Computer Wins!
+Score | You: 48 | The Computer: 53 | Ties: 50
+
+Round 152: The Computer Wins!
+Score | You: 48 | The Computer: 54 | Ties: 50
+
+Round 153: The Player Wins!
+Score | You: 49 | The Computer: 54 | Ties: 50
+
+Round 154: The Computer Wins!
+Score | You: 49 | The Computer: 55 | Ties: 50
+
+Round 1: The Computer Wins!
+Score | You: 0 | The Computer: 1 | Ties: 0
+
+Round 2: The Computer Wins!
+Score | You: 0 | The Computer: 2 | Ties: 0
+
+Round 3: The Player Wins!
+You: 0 The Computer: 2 Ties: 1
+
+Round 4: The Player Wins!
+You: 0 The Computer: 2 Ties: 2
+
+Round 5: The Player Wins!
+You: 0 The Computer: 2 Ties: 3
+
+Round 6: The Computer Wins!
+Score | You: 0 | The Computer: 3 | Ties: 3
+
+Round 7: The Player Wins!
+You: 0 The Computer: 3 Ties: 4
+
+Round 8: The Player Wins!
+Score | You: 1 | The Computer: 3 | Ties: 4
+
